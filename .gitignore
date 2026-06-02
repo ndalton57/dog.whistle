@@ -1,0 +1,22 @@
+# Rust
+/target/
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+test_worlds/
+*.mca
+*.dat
+
+# Logs
+*.log
